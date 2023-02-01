@@ -3,7 +3,7 @@
 
 ### For each dataset, the fields are:
 
-## A row number (1-n) useful in sorting this export's results
+#### A row number (1-n) useful in sorting this export's results
 The UNIX time_t date (seconds since Jan 1, 1970). Useful in sorting this export's results with other export's results
 The date in yyyy-mm-dd format
 The local time of day in hh:mm:ss 24-hour format
